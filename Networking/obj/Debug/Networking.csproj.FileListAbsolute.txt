@@ -1,0 +1,11 @@
+C:\Users\George\source\repos\ClientServerProb\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\ClientServerProb\Networking\bin\Debug\Networking.dll
+C:\Users\George\source\repos\ClientServerProb\Networking\bin\Debug\Networking.pdb
+C:\Users\George\source\repos\ClientServerProb\Networking\bin\Debug\Model.dll
+C:\Users\George\source\repos\ClientServerProb\Networking\bin\Debug\Services.dll
+C:\Users\George\source\repos\ClientServerProb\Networking\bin\Debug\Model.pdb
+C:\Users\George\source\repos\ClientServerProb\Networking\bin\Debug\Services.pdb
+C:\Users\George\source\repos\ClientServerProb\Networking\obj\Debug\Networking.csprojAssemblyReference.cache
+C:\Users\George\source\repos\ClientServerProb\Networking\obj\Debug\Networking.csproj.CopyComplete
+C:\Users\George\source\repos\ClientServerProb\Networking\obj\Debug\Networking.dll
+C:\Users\George\source\repos\ClientServerProb\Networking\obj\Debug\Networking.pdb
